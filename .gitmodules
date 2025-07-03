@@ -1,0 +1,3 @@
+[submodule "src/golang-python-grpc"]
+	path = src/golang-python-grpc
+	url = git@github.com:chuhaoyuu/golang-python-grpc.git
